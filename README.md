@@ -12,12 +12,12 @@ This project aims to solve common healthcare challenges such as:
 + Low engagement in health tracking applications
 + Inaccurate self-reported fitness data
   
-# Key Features
+### Key Features
 + User Authentication & Profile Management
 + Secure user registration and login system
 + Personalized health profile creation
   
-# Stores:
+### Stores:
 + Age
 + Weight
 + Height
@@ -37,20 +37,20 @@ This project aims to solve common healthcare challenges such as:
 + Helps improve medication adherence
 + Rewards & Incentive System
   
-# Users earn reward points for:
+### Users earn reward points for:
 + Completing workouts
 + Following diet plans
 + Taking medicines on time
 + Reward points can be redeemed for discounts on healthcare products and medicines
 + Fitness Tracker Integration
   
-# Integration with:
+### Integration with:
 + Google Fit
 + Fitbit
 + Apple Health
 + Real-time health monitoring
   
-# Tracks:
+### Tracks:
 + Steps
 + Heart rate
 + Calories burned
@@ -61,7 +61,7 @@ This project aims to solve common healthcare challenges such as:
 + Encrypted data handling concepts
 + Privacy-focused healthcare management
   
-# Technologies Used
+### Technologies Used
 + Frontend
 + HTML
 + CSS
@@ -71,7 +71,7 @@ This project aims to solve common healthcare challenges such as:
 + Fitbit API
 + Apple Health Integration
   
-# Concepts & Technologies
+### Concepts & Technologies
 + Artificial Intelligence
 + Health Recommendation Systems
 + API Integration
@@ -79,29 +79,29 @@ This project aims to solve common healthcare challenges such as:
 + Secure Authentication
 + Cloud Data Management
   
-# System Modules
-User Authentication Module
-Profile Management Module
-Diet Recommendation Module
-Workout Recommendation Module
-Medication Reminder Module
-Rewards & Incentive Module
-Fitness Tracker Integration Module
-Data Security Module
+### System Modules
++ User Authentication Module
++ Profile Management Module
++ Diet Recommendation Module
++ Workout Recommendation Module
++ Medication Reminder Module
++ Rewards & Incentive Module
++ Fitness Tracker Integration Module
++ Data Security Module
 
-# Project Objectives
-Encourage healthier lifestyles
-Improve medication adherence
-Increase user engagement through rewards
-Provide personalized healthcare guidance
-Reduce manipulation in fitness tracking systems
-Create an interactive digital healthcare ecosystem
+### Project Objectives
++ Encourage healthier lifestyles
++ Improve medication adherence
++ Increase user engagement through rewards
++ Provide personalized healthcare guidance
++ Reduce manipulation in fitness tracking systems
++ Create an interactive digital healthcare ecosystem
 
-# Future Enhancements
-AI chatbot for healthcare assistance
-Doctor consultation system
-Health report generation
-Advanced analytics dashboard
-Emergency alert system
-Smart wearable integration
-Cloud-based healthcare monitoring
+### Future Enhancements
++ AI chatbot for healthcare assistance
++ Doctor consultation system
++ Health report generation
++ Advanced analytics dashboard
++ Emergency alert system
++ Smart wearable integration
++ Cloud-based healthcare monitoring
